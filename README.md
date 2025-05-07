@@ -14,6 +14,7 @@ public void FindAllTextObjects()
     
     _isSearching = false; 
 }
+```
 Search support for active and inactive text objects.
 Optimized for performance and memory usage with caching strategies.
 Easily extensible for future text object types.
