@@ -1,5 +1,6 @@
 # 🚀 TextFinder - Ultimate Text Object Search Tool for Unity
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-2020.1+-black.svg?style=flat&logo=unity" alt="Unity Version"></a>
+<a href="https://github.com/VodVas/AdvancedMeshCombiner/blob/main/LICENSE"><img src="https://img.shields.io/github/license/VodVas/AdvancedMeshCombiner" alt="License"></a>
 
 ---
 
@@ -22,9 +23,6 @@ Easily extensible for future text object types.
 
 Intuitive UI controls for filtering text objects:
 ```csharp
-
-Copy
-_showLegacyText = EditorGUILayout.ToggleLeft("Legacy UI Text", _showLegacyText);
 Users can customize search filters based on:
 Object type (Legacy UI Text, TextMeshPro, TextMeshProUGUI)
 Active/inactive status
