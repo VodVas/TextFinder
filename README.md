@@ -24,7 +24,7 @@ ___
 
 Intuitive UI controls for filtering text objects:
 ```csharp
-* Object type (Legacy UI Text, TextMeshPro, TextMeshProUGUI)**
+* Object type (Legacy UI Text, TextMeshPro, TextMeshProUGUI)
 * Active/inactive status
 * Name or content search
 (Recommendation: Utilize filters for quicker object location in large scenes)
