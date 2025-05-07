@@ -65,13 +65,13 @@ ___
 **📈 Benchmark Results**
 
 Text Object Search Time:  
-Large scenes with up to 10,000 text objects processed in under 200ms.  
+- Large scenes with up to 10,000 text objects processed in under 200ms.  
 ___
 **🏆 Why Developers Love TextFinder**  
   
-Streamlined workflows for locating text in complex Unity projects.  
-Easy to extend for additional text types and features.  
-Clean and maintainable code structure that adheres to modern software design principles.  
+- Streamlined workflows for locating text in complex Unity projects.  
+- Easy to extend for additional text types and features.  
+- Clean and maintainable code structure that adheres to modern software design principles.  
 ___
 **🛠️ Supported Unity Versions**  
   
