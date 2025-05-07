@@ -58,24 +58,24 @@ Add to your Unity project:
 - Open **Window → Package Manager**
 - Click **+ → Add package from Git URL**
 - Paste:
-   ``` https://github.com/VodVas/AdvancedMeshCombiner.git ```
+   ``` https://github.com/VodVas/TextFinder.git ```
 - Press **Add**
 Comprehensive Statistics: Displays total counts and breakdowns by text type for better insight into your scene.
 ___
 **📈 Benchmark Results**
 
-Text Object Search Time:
-Large scenes with up to 10,000 text objects processed in under 200ms.
+Text Object Search Time:  
+Large scenes with up to 10,000 text objects processed in under 200ms.  
 ___
-**🏆 Why Developers Love TextFinder**
-
-Streamlined workflows for locating text in complex Unity projects.
-Easy to extend for additional text types and features.
-Clean and maintainable code structure that adheres to modern software design principles.
+**🏆 Why Developers Love TextFinder**  
+  
+Streamlined workflows for locating text in complex Unity projects.  
+Easy to extend for additional text types and features.  
+Clean and maintainable code structure that adheres to modern software design principles.  
 ___
-**🛠️ Supported Unity Versions**
-
-Version	Burst Support	Verified
-2020.1	✅	Certified
-2021.3	✅	Verified
-2022.2	✅	Tested
+**🛠️ Supported Unity Versions**  
+  
+Version	Burst Support	Verified  
+2020.1	✅	Certified  
+2021.3	✅	Verified  
+2022.2	✅	Tested  
