@@ -32,12 +32,12 @@ Intuitive UI controls for filtering text objects:
 ___
 **🌟 Clean Architecture with MVC Pattern**
 
-- Model-View-Controller (MVC):
+- Model-View-Controller (MVC):  
 This utility follows the MVC pattern to separate concerns:  
 Model: Contains data representation (TextObjectInfo, TextObjectType).  
 View: Manages user interface rendering (TextFinderView).  
 Controller: Coordinates user input and application logic (TextFinderPresenter).  
--SOLID Principles:  
+- SOLID Principles:  
 Single Responsibility: Each class has a distinct responsibility.  
 Open/Closed: New text finders can be added without modifying existing code.  
 Liskov Substitution: All finder classes implement the same interface.  
