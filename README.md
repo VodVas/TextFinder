@@ -53,16 +53,12 @@ Capable of handling scenes with thousands of text objects within milliseconds.
 - Memory Efficiency:  
 Utilizes caching strategies to minimize duplicate calculations and reduce memory footprint.  
 ___
-**🛠️ Key Features**
-
-Support for Inactive Objects: Find text objects regardless of their active state in the hierarchy.
-Easy Integration:
-plaintext
-
-Copy
+**🚀 Quick Start**  
+Add to your Unity project:  
 - Open **Window → Package Manager**
 - Click **+ → Add package from Git URL**
-- Paste: https://github.com/YourUsername/TextFinder.git
+- Paste:
+   ``` https://github.com/VodVas/AdvancedMeshCombiner.git ```
 - Press **Add**
 Comprehensive Statistics: Displays total counts and breakdowns by text type for better insight into your scene.
 ___
