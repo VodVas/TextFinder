@@ -21,7 +21,7 @@ Easily extensible for future text object types.
 🧩 Flexible Filtering Options
 
 Intuitive UI controls for filtering text objects:
-csharp
+```csharp
 
 Copy
 _showLegacyText = EditorGUILayout.ToggleLeft("Legacy UI Text", _showLegacyText);
@@ -30,6 +30,7 @@ Object type (Legacy UI Text, TextMeshPro, TextMeshProUGUI)
 Active/inactive status
 Name or content search
 (Recommendation: Utilize filters for quicker object location in large scenes)
+```
 
 🌟 Clean Architecture with MVC Pattern
 
