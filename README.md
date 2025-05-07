@@ -59,8 +59,7 @@ Add to your Unity project:
 - Click **+ → Add package from Git URL**
 - Paste:
    ``` https://github.com/VodVas/TextFinder.git ```
-- Press **Add**
-Comprehensive Statistics: Displays total counts and breakdowns by text type for better insight into your scene.
+- Press **Add**  
 ___
 **📈 Benchmark Results**
 
