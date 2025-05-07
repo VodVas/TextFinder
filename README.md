@@ -46,12 +46,12 @@ Dependency Injection: Services are injected to promote testability.
 ___
 **📊 Performance and Scalability**
 
-Efficiently handles large numbers of text objects.
-Search Performance:
-Optimized algorithms for filtering and searching through text objects.
-Capable of handling scenes with thousands of text objects within milliseconds.
-Memory Efficiency:
-Utilizes caching strategies to minimize duplicate calculations and reduce memory footprint.
+- Efficiently handles large numbers of text objects.  
+Search Performance:  
+Optimized algorithms for filtering and searching through text objects.  
+Capable of handling scenes with thousands of text objects within milliseconds.  
+- Memory Efficiency:  
+Utilizes caching strategies to minimize duplicate calculations and reduce memory footprint.  
 ___
 **🛠️ Key Features**
 
