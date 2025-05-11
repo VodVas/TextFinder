@@ -1,0 +1,34 @@
+{
+    "name": "com.vodvas.textfinder",
+    "version": "1.0.0",
+    "displayName": "TextFinder",
+    "description": "Ultimate Text Object Search Tool for Unity",
+    "unity": "2021.3",
+    "dependencies": {
+      "com.unity.textmeshpro": "3.0.6"
+    },
+    "keywords": [
+      "text",
+      "search",
+      "finder",
+      "utility",
+      "editor"
+    ],
+    "author": {
+      "name": "VodVas",
+      "email": "vod.vas2022@gmail.com",
+      "url": "https://github.com/VodVas"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/VodVas/TextFinder.git"
+    },
+    "license": "MIT",
+    "samples": [
+      {
+        "displayName": "Basic Usage",
+        "description": "Basic example of TextFinder usage",
+        "path": "Samples~/BasicUsage"
+      }
+    ]
+  }
